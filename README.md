@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to build a basic website, using links and images to help develop my understanding of proper file structure, boilerplate HTML, links, images and how to use git and github. I'm looking forward to learning!
